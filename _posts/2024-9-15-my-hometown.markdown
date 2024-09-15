@@ -17,7 +17,7 @@ tags:
 
 我的家乡是一座普通的小城市：潼南。在历史上，它曾经属于不同的行政区划。新中国成立后，自1958年起，它属于绵阳专区，而到了1997年，重庆直辖市成立，潼南也被划归重庆。那么今天我要讲的，就是我国四大直辖市之一——重庆。
 
-![](https://pics0.baidu.com/feed/6609c93d70cf3bc7dbf2cc56bb7b64adcc112a25.jpeg?token=ac418d0c6336cff0bc0e2592a3d7b046)
+![](https://github.com/Tachibana-Kousuke/tachibana-kousuke.github.io/blob/ec778ddf29df6358b83df5fa79fcb487c8369a95/img/chongqing-introduce.jpg)
 
 ### 重庆的别名
 
