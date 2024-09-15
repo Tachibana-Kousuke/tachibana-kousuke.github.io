@@ -3,7 +3,6 @@ layout:      post
 tittle:      "我的家乡"
 subtittle:    "Home is where the heart is."
 author:      "阿伟"
-header-style:    text
 header-img:    "img/header.jpg"
 date:        2024-9-15 16:00
 catalog:     ture
