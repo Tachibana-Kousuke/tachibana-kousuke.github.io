@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Tachibana
 
 # Netease settings
 netease_comment: false
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: tachibana-kousuke.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "反正在学校都是牛马 <br> React Team @ Meta"
+sidebar-about-description: "反正在学校都是牛马 <br> 我也不知道该说什么"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "赵烽皓howcam", href: "http://howcam.github.io" },
+    { title: "赵烽皓howcam，他的GitHub项目提供了学习资料", href: "http://howcam.github.io" },
   ]
