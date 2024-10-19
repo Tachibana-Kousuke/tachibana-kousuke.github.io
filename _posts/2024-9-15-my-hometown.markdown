@@ -6,7 +6,6 @@ author:      "阿伟"
 header-img:    "img/header.jpg"
 date:        2024-9-15 16:00
 catalog:     ture
-hidden:        ture
 tags: 
     - 校园记录
     - 我的高中
